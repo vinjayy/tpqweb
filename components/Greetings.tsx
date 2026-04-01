@@ -8,7 +8,7 @@ export default function Greetings() {
       id: 1,
       name: "Ustadz Eki Sopian, S.Ag",
       role: "Pembina TPQ Al-Muthmainnah",
-      image: "/g4.jpeg",
+      image: "/foto1.jpeg",
       text: (
         <>
           <p className="mb-3">Assalamu’alaikum warahmatullahi wabarakatuh.</p>
@@ -25,7 +25,7 @@ export default function Greetings() {
       id: 2,
       name: "Ustadzah Patimah Batubara, S.Hum",
       role: "Kepala TPQ Al-Muthmainnah",
-      image: "/g1.jpeg",
+      image: "/foto2.jpeg",
       text: (
         <>
           <p className="mb-3">Assalamu’alaikum warahmatullahi wabarakatuh.</p>
